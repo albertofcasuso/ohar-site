@@ -1,10 +1,8 @@
 ---
-title: ""
+title: "Ohar Privacy Policy"
 ---
 
 <link rel="stylesheet" href="assets/css/style.css">
-
-# Ohar Privacy Policy
 
 Last updated: March 24, 2025
 
