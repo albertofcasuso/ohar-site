@@ -1,3 +1,9 @@
+---
+title: "Terms and Conditions of Use"
+---
+
+<link rel="stylesheet" href="assets/css/style.css">
+
 # Terms and Conditions of Use
 
 Last updated: March 24, 2025
