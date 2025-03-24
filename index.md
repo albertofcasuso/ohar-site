@@ -1,3 +1,9 @@
+---
+title: ""
+---
+
+<link rel="stylesheet" href="assets/css/style.css">
+
 # Legal Info – Ohar 🧘‍♂️
 
 Welcome to the legal information page for **Ohar**, your distraction-free meditation timer.
