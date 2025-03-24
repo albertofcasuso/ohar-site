@@ -4,6 +4,8 @@ title: "Ohar Privacy Policy"
 
 <link rel="stylesheet" href="assets/css/style.css">
 
+# Ohar Privacy Policy
+
 Last updated: March 24, 2025
 
 At **Ohar**, we value your privacy. Our philosophy is simple: the app is designed to help you meditate without distractions... and that includes not collecting your personal data.
